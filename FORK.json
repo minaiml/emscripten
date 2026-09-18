@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/emscripten",
+  "source": "emscripten-core/emscripten",
+  "source_url": "https://github.com/emscripten-core/emscripten",
+  "commit": "0538c9dba690359baa7c09e99a7ff597796c4939",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "role": "browser — LLVM-to-WebAssembly compiler",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml",
+  "upstream_license": "MIT OR NCSA",
+  "upstream_license_resolved_from": "the LICENSE file, read 2026-09-18",
+  "note": "Dual-licensed: MIT and University of Illinois/NCSA Open Source License, both permissive."
+}
